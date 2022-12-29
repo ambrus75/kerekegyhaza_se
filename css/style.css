@@ -1,0 +1,39 @@
+header{
+    width:100%; 
+    display: flex;
+    justify-content: center;
+ 
+}
+#kep1{
+    align-items: center;
+    display: inline;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+ header h1{
+text-align: center;
+position: relative;
+justify-content: center;
+display: flex;
+margin-top: -200px;
+color: white;
+font-size: 48px;
+}
+#logo{
+    width: 30px;
+    height: 30px;
+
+}
+a :hover{
+color: black;
+
+}
+li a :hover{
+    color: black;
+    display: block;
+
+}
+navbar{
+    margin-left: 10px;
+}
