@@ -13,7 +13,7 @@ header{
 }
  header h1{
 text-align: center;
-position: relative;
+position: absolute;
 justify-content: center;
 display: flex;
 margin-top: -200px;
@@ -36,4 +36,14 @@ li a :hover{
 }
 navbar{
     margin-left: 10px;
+}
+
+.main p {
+    width: 400px;
+    padding: 25px;
+    margin-left: 50px;
+}
+#h12{
+    margin-left: 50px;
+    padding: 25px;
 }
