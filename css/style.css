@@ -45,6 +45,8 @@ li a :hover{
     margin-left: 50px;
     border: 1px solid black;
     box-shadow: 0px 5px 10px black;
+    background-color: rgba(0, 32, 139, 0.623);
+    color: black;
    
 }
 #h12{
@@ -57,8 +59,13 @@ li a :hover{
     width: 400px;
     padding: 25px;
     margin-left: 50px;
+    margin-top: 25px;
     border: 1px solid black;
     box-shadow: 0px 5px 10px black; 
+    background-color: rgba(0, 32, 139, 0.623);
+    color: black;
+   
+    
 }
 #h{
     margin-left: 50px;
